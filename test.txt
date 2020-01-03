@@ -12,3 +12,5 @@ Git is free software.
 搞清楚暂存区的概念
 
 复习
+
+删除远程仓库测试
