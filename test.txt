@@ -10,3 +10,5 @@ Git is free software.
 
 
 搞清楚暂存区的概念
+
+复习
